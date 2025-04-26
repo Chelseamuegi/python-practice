@@ -1,6 +1,6 @@
 #This is a function to find the sum of all digits in a number
 
-#Define function that takes a postive integer
+#Define function that takes a positive integer
 def sum_of_digits(n):
     # Initialize a variable to store the sum of digits
     total = 0

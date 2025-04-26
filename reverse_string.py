@@ -6,7 +6,6 @@ def reverse_string(s):
     reversed_s = ""
     #loop through each character in the string input
     for char in s:
-        # Add each character to the beginning of the result
         reversed_s = char + reversed_s
     return reversed_s
 
