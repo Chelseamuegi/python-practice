@@ -29,4 +29,4 @@ The files listed consist of:
 
 ---
 
-Thank you for checking out my work! 
+
